@@ -1,2 +1,5 @@
 # hangman-gui-python
-Fully interactive Hangman game using Python and Tkinter, simulating a real-world app. Includes word categories, hints, timer, and dynamic GUI. Great for demonstrating GUI development, logic building, and user experience.
+A visually engaging Hangman game built with Python and Tkinter, designed to deliver a real-world user experience.
+The game features themed word categories, intelligent hints, a countdown timer, and interactive GUI updates with visual feedback.
+Perfect for showcasing skills in GUI programming, Python logic, and user-centric application design—ideal for portfolios, learning, and demos.
+
